@@ -1,5 +1,5 @@
 # Python SQL Database Program
-The Database Application is designed to interact with a Yelp databse using the pyodbc library for ODBC integration. This application is a simple terminal interface to access and manage information stored in the Yelp database.
+The Database Application is designed to interact with a Yelp database using the pyodbc library for ODBC integration. This application is a simple terminal interface to access and manage information stored in the Yelp database.
 
 **Introduction**
 ---
