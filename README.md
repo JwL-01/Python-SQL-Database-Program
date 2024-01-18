@@ -52,4 +52,4 @@ the current date.
 business. You need to make sure that the triggers you implemented in assignment 4 are
 working properly with your application program.
 
-![image](https://github.com/JwL-01/Python-SQL-Database-Program/blob/main/login.jpg)
+![image](https://github.com/JwL-01/Python-SQL-Database-Program/blob/main/main.jpg)
